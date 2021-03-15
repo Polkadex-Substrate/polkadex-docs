@@ -3,4 +3,4 @@ id: polkadexNodeOperator
 title: Node Operators
 ---
 
-Soon..
+Information will be updated soon...

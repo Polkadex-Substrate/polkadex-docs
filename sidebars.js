@@ -17,7 +17,19 @@ module.exports = {
     },
     {
       type: 'doc',
-      id: 'polkadexFiatPallete'
+      id: 'polkadexFungibleAssets'
+    },
+    {
+      type: 'doc',
+      id: 'polkadexNonFungibleAssets'
+    },
+    {
+      type: 'doc',
+      id: 'polkadexFiat'
+    },
+    {
+      type: 'doc',
+      id: 'decentralizedKYC'
     },
     {
       type: 'doc',
