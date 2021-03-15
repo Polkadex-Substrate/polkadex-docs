@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="203.463" height="203.463" viewBox="0 0 203.463 203.463">
+  <g id="Logo" transform="translate(0 0)">
+    <rect id="Rectangle_1998" data-name="Rectangle 1998" width="203.463" height="203.463" rx="60" transform="translate(0 0)" fill="#2e303c"/>
+    <g id="Icon" transform="translate(35 36)">
+      <g id="Letter" transform="translate(133.926 132.398) rotate(180)">
+        <path id="Path_1" data-name="Path 1" d="M0,0V18.167L31.124,49.584H49.871Z" transform="translate(0 17.876)" fill="#fff"/>
+        <path id="Path_3" data-name="Path 3" d="M49.871,49.584V31.417L18.746,0H0Z" transform="translate(84.055 63.409)" fill="#fff"/>
+        <path id="Path_4" data-name="Path 4" d="M49.871,0V18.167L18.746,49.584,49.871,80.717V99.7L0,49.584Z" transform="translate(117.577 82.527) rotate(90)" fill="#fff"/>
+        <path id="Path_5" data-name="Path 5" d="M49.871,99.7V81.534L18.746,50.117,49.871,18.984V0L0,50.117Z" transform="translate(14.82 49.871) rotate(-90)" fill="#fff"/>
+      </g>
+      <circle id="Ellipse" cx="8.468" cy="8.468" r="8.468" transform="translate(58.746 59.392)" fill="#e6007a"/>
+    </g>
+  </g>
+</svg>
