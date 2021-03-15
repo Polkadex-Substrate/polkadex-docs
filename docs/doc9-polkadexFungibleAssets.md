@@ -5,7 +5,7 @@ title: Polkadex Fungible Assets
 
 Polkadex Fungible Assets allows developers and project teams to issue tokens by sending a transaction in Polkadex. It is enables project teams in Ethereum and Polkadot ecosystem to issue tokens before their projects are developed completely.
 
-Key Features and Functionalities
+## Key Features and Functionalities
 
 - Tokens will have full ERC-20 functionality
 - Tokens will have an identity that can be approved by the governance to show support of the network ( That is, Like Twitter shows approved profiles, the governance can approve and attest tokens ). It can avoid fake tokens and community can attest project teams.

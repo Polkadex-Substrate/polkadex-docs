@@ -2,7 +2,7 @@
 id: introductionOrderbook
 title: Introduction
 ---
-![img](/img/orderbookTitleBanner.png)
+![img](/img/orderbookTitleBanner.jpg)
 **Polkadex Orderbook is a non-custodial, layer two based orderbook exchange on top of the Polkadex Network**.
 
 Polkadex Orderbook is made for the traders who trade in centralized exchanges by giving up control of their assets and trusting a centralized operator. We believe Polkadex Orderbook can improve the situation of those traders by decentralizing the custody of assets and at the same time providing the same comforts and convenience of a normal centralized exchange.
