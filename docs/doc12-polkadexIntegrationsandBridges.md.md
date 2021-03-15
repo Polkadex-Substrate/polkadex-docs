@@ -9,6 +9,7 @@ Polkadex, an application specific parachain for crypto-crypto and crypto-fiat as
 
 1. **PolkadotJS**: Polkadex integrates directly to PolkadotJS browser wallet and allows users to send transactions directly from the browser extension. 
 
+2. **Trading Bots Coming Soon =)**
 ---
 
 ## Bridges

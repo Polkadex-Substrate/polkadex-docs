@@ -6,7 +6,11 @@ slug: /
 ---
 
 Polkadex, an application specific parachain for crypto-crypto and crypto-fiat assets trading. In this documentation you can find both high-level and technical documentation about Polkadex and it's surrounding technologies.
+:::tip
 
+This documentation will grow and be refined as Polkadex ecosystem grows over time.
+
+:::
 ---
 
 ## What is Polkadex?

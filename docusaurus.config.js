@@ -82,11 +82,13 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateTime: true,
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Polkadex-Substrate/polkadex-docs',
+            'https://github.com/Polkadex-Substrate/polkadex-docs/edit/master/',          
         },
         blog: {
           showReadingTime: true,
