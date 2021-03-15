@@ -1,7 +1,7 @@
 ---
 id: introductionPolkapoolMiningProgram
 title: Perpetual Liquidity Mining Program
-
+sidebar_label: Liquidity Mining Program
 ---
 
 **Polkapool Liquidity Mining Program incentives the liquidity providers of low liquidity pairs can providing them with 50% of the Polkadex Inflation**. The Polkadex Governance decides which pairs are eligible for liquidity mining. The liquidity mining rewards are only given to providers who lock up their liquidity for a certain period of time.
