@@ -19,15 +19,15 @@ Polkadex Network will become a parachain when it secures a parachain slot in Pol
 
 ## How to engage with Polkadex Community
 
-### ![Telegram icon](/img/telegram.svg 'Discord Logo')  [Telegram](https://t.me/Polkadex)
+#### ![Telegram](/img/telegram.svg 'Discord Logo')  [Telegram](https://t.me/Polkadex)
 General Topics and non-technical topics can be discussed here.
 
-### ![Twitter icon ](/img/twitter.svg 'Twitter Logo')  [Twitter](https://twitter.com/polkadex)
+#### ![Twitter](/img/twitter.svg 'Twitter Logo')  [Twitter](https://twitter.com/polkadex)
 Follow us on Twitter for regular updates: @Polkadex
 
-### ![Youtube icon](/img/youtube.svg 'Youtube Logo')  [Youtube](https://www.youtube.com/channel/UC6fXRDT4lLKlXG3gP0PP06Q)
+#### ![Youtube](/img/youtube.svg 'Youtube Logo')  [Youtube](https://www.youtube.com/channel/UC6fXRDT4lLKlXG3gP0PP06Q)
 For Polkadex related content, subscribe to our YouTube channel here.
 
-### ![Github icon](/img/github.svg 'Github Logo')  [Github](https://github.com/Polkadex-Substrate/Polkadex)
+#### ![Github](/img/github.svg 'Github Logo')  [Github](https://github.com/Polkadex-Substrate/Polkadex)
 For reviewing our work, check it out here 
 
