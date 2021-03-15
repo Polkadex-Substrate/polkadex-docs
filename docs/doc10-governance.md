@@ -15,3 +15,6 @@ Polkadex Governance uses the same mechanisms used by Polkadot.
 * Expenditure of Polkadex Treasury funds for ecosystem building
 * Funds projects that build on top of Polkadex Network.
 * Controls Inflation of Polkadex Tokens
+
+
+This document is a work in progress.

@@ -16,11 +16,6 @@ module.exports = {
       items: ['introductionPolkapool', 'introductionPolkapoolFeatures', 'introductionPolkapoolMiningProgram', 'introductionPolkapoolBuybackMechanism']
     },
     {
-      type: 'category',
-      label: 'Polkadex ERC-20',
-      items: ['introductionPolkadexErc']
-    },
-    {
       type: 'doc',
       id: 'polkadexFungibleAssets'
     },
@@ -43,6 +38,10 @@ module.exports = {
     {
       type: 'doc',
       id: 'governance'
+    },
+    {
+      type: 'doc',
+      id: 'polkadexParachain'
     },
     {
       type: 'doc',
