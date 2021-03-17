@@ -5,7 +5,7 @@ title: Token Economics
 
 ## Overview
 
-Polkadex builds a fully, decentralized, peer to peer, orderbook based cryptocurrency exchange on the Polkadot network. Recently, the exchange platform that is supported and funded by the Web3 Foundation launched its testnet. For the main net, Polkadex plans to issue a utility token that will be used to govern the network and will be required to conduct trades on the exchange platform. Polkadex aims to manage and distribute the tokens such that it benefits early investors and the development of the exchange.
+Polkadex builds a fully, decentralized, peer to peer, orderbook based cryptocurrency exchange on the Polkadot network. Recently, the exchange platform that is supported and funded by the Web3 Foundation launched its testnet. For the main net, Polkadex plans to issue an utility token that will be used to govern the network and will be required to conduct trades on the exchange platform. Polkadex aims to manage and distribute the tokens such that it benefits early investors and the development of the exchange.
 
 The paper is structured as follows: First, we present the key characteristics of the tokenomics. In section two, we explain the model used to analyse the tokenomics. In section three, we will introduce the monetary policy details, i.e., how tokens are managed and distributed. The derivation of the fundamental pricing equation is presented in the appendix.
 
