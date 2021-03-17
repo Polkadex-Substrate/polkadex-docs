@@ -15,9 +15,9 @@ This documentation will grow and be refined as Polkadex ecosystem grows over tim
 
 ## What is Polkadex?
 
- **Polkadex is trading platform catered towards both Uniswap market and Centralized Exchange market**.  It provides two products initially, Polkadex Orderbook and Polkapool AMM. Polkadex Network allows traders to get the best of both worlds by providing a no KYC, feeless swaps and liquidity on AMM pool supported by perpetual liquidity mining program.
+ **Polkadex is a trading platform catered towards both Uniswap and Centralized Exchange markets**.  It provides two products initially, Polkadex Orderbook and Polkapool AMM. Polkadex Network allows traders to get the best of both worlds by providing a no KYC, feeless swaps and liquidity on AMM pool supported by perpetual liquidity mining program.
 
-On the other hand,  Polkadex Orderbook improves upon the centralized exchange market by providing a non-custodial, decentralized KYC'ed, fiat supported Orderbook based exchange with institutional grade liquidity and institutional trading bot support. 
+On the other hand,  Polkadex orderbook improves upon the centralized exchange market by providing a non-custodial, decentralized KYC'ed, fiat supported Orderbook based exchange with institutional grade liquidity and institutional trading bot support. 
 
 Polkadex Network will become a parachain when it secures a parachain slot in Polkadot, opening the path towards DOT and other assets in the Polkadot Ecosystem.
 
