@@ -1,6 +1,6 @@
 ---
 id: whyPolkadex
-title: Why Polkadex
+title: Why Polkadot
 ---
 
 We chose Polkadot for two main reasons:
