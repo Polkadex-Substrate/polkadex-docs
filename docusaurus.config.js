@@ -10,6 +10,7 @@ module.exports = {
   organizationName: 'Polkadex INC', // Usually your GitHub org/user name.
   projectName: 'polkadex', // Usually your repo name.
   themeConfig: {
+    image: 'img/twitterCard.jpg', 
     navbar: {
       title: 'Polkadex ',
       logo: {
