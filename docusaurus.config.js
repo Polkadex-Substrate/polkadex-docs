@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Polkadex Docs',
   tagline: 'Template to organize documents like technical specs, architecture overviews, and project kickoff notes.',
-  url: 'https://docs.polkadex.trade.com',
+  url: 'https://docs.polkadex.trade',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
