@@ -3,43 +3,32 @@ id: vision
 title: Our Vision for Polkadex
 sidebar_label: Vision
 ---
-We believe that trading products should be taken seriously and should be provided a dedicated platform. We believe that there are two kinds of markets, namely,
+
+We believe that the trading environment is the most important part of the crypto industry growth and there is a need for a dedicated platform for trading products. In our view markets can be divided into two categories: Non-Orderbook and Orderbook.
 
 ## Non-Orderbook Market
-These are markets that completely depend on passive market making and is controlled by pure supply and demand. The major examples for this are Uniswap, Balancer, Sushiswap, etc.
+These markets depend on passive market making and are controlled purely by supply and demand. Some of the well-known examples of such markets are Uniswap, Balancer and Sushiswap. 
 
-These markets are always prone to price shocks, frontrunning, price slippage and arbitraging.  Traders have to understand the fact that price shocks, price slippage and arbitraging are inherent properties of this market and if anyone claims that they solved this in an automated market making model, then you are being fooled. Let us explain,
+Non-Orderbook markets are always prone to such negative events as price shocks and slippage, frontrunning and arbitraging. Traders who use these platforms don't have another choice but to agree with the inherent negative properties of these markets. Currently, there are no platforms that can prove they eliminated the issues mentioned above in an automated market-making model
 
-* **High Price Slippage**: It happens when a trader places a trade that is comparatively larger compared to the liquidity available in the market. This is a normal scenario, in layman's terms, if you are trying to buy more apples in a limited supply market, indeed the price of the apple will go up. Suppose if we don't allow the seller to increase the price of the apple then the seller is losing value by providing apples to market compared to the situation in which he just hold on to his apples. 
+Let us explain the terms here.
 
-  Similarly, the AMM increases/decreases the price of an asset to protect the liquidity provider in case of a mass buy or sell in the market. This is clearly depicted in Uniswap model by limiting the price slippage tolerance.
+* **High Price Slippage** happens when the user places a trade that is larger than the liquidity available in the market. Using a simple analogy, if you are trying to buy more apples in a market with limited supply, the price of one apple will increase. On the other hand, if we don't allow the seller to increase the price of the apples, then the seller is losing value by providing apples to the market and he has more incentive to just hold on to his apples. Similarly, the AMM increases or decreases the price of an asset to protect the liquidity provider in case of mass buy or sell events in the market. This is outlined in the Uniswap model though limits for price slippage tolerance. 
 
-* **Arbitraging**:  It's simply is a mechanism to level the swap price with the market price of the given asset. It comes with a cost, whenever an arbitrageur executes an opportunity, he either buys the assets at a lower price or sells the assets at a higher rate and executing the opposite trade in another market. Thereby making a profit doing so. Here the liquidity providers are paying the profit taken by arbitrageur but if somebody doesn't make arbitrage then AMM pool will continue to sell/buy at a skewed price.
+* **Arbitraging** is a mechanism used to level the swap price with the market price of the given asset. Whenever an arbitrageur makes a profit from buying the asset at a lower price on one market and selling the asset at a higher price in another market. The liquidity providers are paying the arbitrageur's profit, however, if somebody doesn't execute arbitrage then the AMM pool will continue to trade at a skewed price. There is no automated market-making model that can function without arbitraging. 
 
-  There is no automated market making model that is possible without arbitraging.
+* **Frontrunning** is an issue related to the blockchain and not the AMM pool directly. Ethereum-like blockchains prioritise transactions with higher gas fees. As blockchain is transparent anyone in the network can see other transactions in the queue. If someone in the network notices that you are buying a lot of asset X they can set higher gas fees for their transaction. In this case, your swap price will go up and you will end up purchasing the asset at a higher swap price. 
+  Polkadex solves the problem of frontrunning by removing the transaction fees. Since no one is paying any transactions fees the swaps are treated on a first-come-first-serve basis. 
 
-* **Frontrunning**: It is an issue related to the blockchain and not the AMM pool. In Ethereum like blockchains, the priority of transactions is decided in the decreasing order of transaction fee included so if someone in the network sees that you are buying a lot of asset ABC then they can send a transaction with higher fees to drive up the swap price so when your trade executes you will end up buying at a higher price. 
+* **High Swap Fees** are pretty self-explanatory. Generally, each new project claims they have the lowest transaction fees relative to established projects. Due to the nature of the cryptocurrency industry, the platform native token price will go up in value over time. As transaction fee is the percentage of the token price, a price increase will lead to higher transaction fees. Thus, these projects can maintain low fees only for a short time. The only way to solve this problem is to untie transaction fees from the native token. If there is no connection price changes in the native token will not affect the swap fees. 
 
-  Polkadex solves this problem by removing the transaction fee factor since no one is paying any transactions fees the swaps are treated in a first come first serve manner by completely eliminating the frontrunning problem. 
-
-* **High Swap Fees**: Generally, all the new projects will claim that they have the lowest transaction fees possible, but in that case the investors of the project requires the token value to go higher, even the team behind it wants the same thing. If the token value goes up then the transaction fees also goes up since the payment is done in the native token. Thus, these projects can claim low fees only for a short amount of time.
-
-  The only way to solve this problem is to decouple the transaction fees from native token so price changes in native token doesn't affect the swap prices. Polkapool does this by removing transaction fees and implementing a crypto economic logic to prevent Distributed Denial of Service Attacks.
-
+  Polkapool addresses this issue by fully removing transaction fees and implementing a crypto-economic logic to prevent Distributed Denial of Service Attacks.
 
 ## Orderbook Market
 
-These are markets that requires active market making and can respond to change in global sentiments on traded assets within milliseconds. Orderbooks are the perfect trading vehicles since they can provide the minimum price slippage, no arbitraging and can avoid frontrunning.
+Orderbook markets require active market-making and can respond to any change in global sentiments on traded assets within milliseconds. Orderbooks are the perfect trading vehicles because they can provide the minimum price slippage and avoid arbitraging and frontrunning.                                         
+There are two participants in the Orderbook market, maker and taker. Maker creates the market by placing buy and sell orders. Taker consumes open orders created by the maker. The main technical requirements for both participants are latency, security and full KYC.
 
-There are two participants in Orderbook, the maker and taker. 
+Latency is the time taken to place or edit an order in the orderbook. It takes about 20 milliseconds on a centralized exchange. On the security side of the question, the funds in the orderbook should never be hacked and must be controlled by the owner of the private key. Each market participant has to go through a thorough KYC process for data security. The issue here is that while the traders might be comfortable sharing their data for KYC, they definitely don't want their data to be misused without their permission. 
 
-1. Maker is the one who creates the market by putting buy and sell orders.
-2. Taker is the trader who consumes these open orders created by the maker.
-
-The main technical requirements for both participants are as follows,
-
-1. **Latency**: The time taken to list/edit an order in the orderbook. In a centralized exchange it is around 20 milliseconds.
-2. **Security**: The funds in the orderbook should never be hacked and must be controlled by the owner of the private key.
-3. **KYC Data Security**: Traders are comfortable to share the KYC data but they don't want their data to be misused without their permission.
-
-Polkadex Orderbook provides the exact same requirements by providing a layer two system on top of Polkadex Network which can accept trades in 20ms, can execute more than 500,000 trades per second, and the funds are always controlled and secured by the owner's private key. Polkadex implements decentralized KYC that makes sure the KYC of the customer is stored with the customer and is never shared with Polkadex. Polkadex receives a cryptographic proof that KYC was done. In this way, Polkadex preserves trader privacy.
+Polkadex Orderbook offers the benefits of the traditional centralised orderbook exchanges by providing a Layer 2 system on top of Polkadex Network. Polkadex Orderbook can accept trades in 20ms and execute more than 500,000 trades per second. Moreover, traders are always in full control of their funds and enjoy the highest level of security. Only the owner can access the funds using private keys. Polkadex implements decentralized KYC, where data is stored with the customer and is never shared with Polkadex. Polkadex receives only cryptographic proof that KYC was done. In this way, we preserve the privacy of our users.

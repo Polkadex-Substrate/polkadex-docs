@@ -3,5 +3,4 @@ id: polkadexParachain
 title: Polkadex  Parachain
 ---
 
-
-Information will be updated soon...
+Polkadex team will update the information here soon.

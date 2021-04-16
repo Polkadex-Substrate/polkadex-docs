@@ -3,12 +3,10 @@ id: introductionPolkapoolFeatures
 title: Key Features and Functionalities
 ---
 
-* **Zero Gas Fees**: Polkapool transactions are free of gas fees. Traders can place swaps without paying any gas fees. Traders are only required to stake Polkadex tokens in their wallet to be eligible for feeless swaps. These tokens are never spent on executing swaps.
+* **Zero Gas Fees**: Polkapool transactions are free of gas fees. Traders can swap assets without paying any gas fees and are only required to stake Polkadex tokens (PDEX) in their wallet to be eligible for feeless swaps. PDEX tokens will never be spent to execute swaps.
 
-* **No Frontrunning**: Polkadex implements Liquidity mining program that provides yield farming incentives forever, it ensures that Polkapool contains liquidity at almost all time and prevents mercenary liquidity that exists only during the limited time of liquidity mining.
+* **No Frontrunning**: Polkadex implements Liquidity Mining Program that provides yield farming incentives on an ongoing basis. It ensures that Polkapool always contains liquidity and prevents mercenary liquidity that exists only during the limited time of liquidity mining.
 
-* **Retail Liquidity Providers**: Small and Retail investors and liquidity providers (LP) can add liquidity and earn mining rewards and swap fees by leveraging against time. That is, If a LP is providing liquidity and if they are locking it for a period between 1 day to 300 days then he can get liquidity shares that is proportional to the time he locks thereby leveraging the liquidity.
+* **Retail Liquidity Providers**: Small and Retail investors and Liquidity Providers (LPs) can add liquidity to earn mining rewards and swap fees by leveraging against time. If a user provides liquidity and locks it for 1-300 days, this user gets liquidity shares proportional to the locking time, thereby leveraging the liquidity. For example, if a user provides $100 worth of liquidity and locks it for 300 days to a $1000 pool, then he gets four times the liquidity shares of $100 with mining rewards and fees. In this way, Polkapool allows retails investors to compete with whales who take the opportunity in short term price movements.
 
-  For example, if a LP provides liquidity worth $100 locked to 300 days to a $1000 pool, then he gets four times the liquidity shares of $100 earning mining rewards and fees. In this way, Polkapool allows retails investors to compete with whales who take opportunity in short term price movements.
-
-* **Reduces the impermanent loss**: The perpetual liquidity mining program reduces the losses incurred by a liquidity mining program incase of an impermanent loss occurred due to a sudden market change.
+* **Reduces the impermanent loss**: The Perpetual Liquidity Mining Program eliminates the risk of an impermanent loss that usually occurs due to sudden price shocks in the market.

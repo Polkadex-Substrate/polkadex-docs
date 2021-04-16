@@ -3,13 +3,8 @@ id: polkadexFungibleAssets
 title: Polkadex Fungible Assets
 ---
 
-Polkadex Fungible Assets allows developers and project teams to issue tokens by sending a transaction in Polkadex. It enables project teams in Ethereum and Polkadot ecosystem to issue tokens before their projects are developed completely.
+Polkadex Fungible Assets allows developers and teams to issue tokens simply by sending a transaction in Polkadex, enabling them to issue tokens before their projects in Ethereum and Polkadot ecosystems are fully deployed.
 
 ## Key Features and Functionalities
 
-- Tokens will have full ERC-20 functionality
-- Tokens will have an identity that can be approved by the governance to show support of the network ( That is, Like Twitter shows approved profiles, the governance can approve and attest tokens ). It can avoid fake tokens and the community can attest project teams.
-- Tokens can have customizable vesting support from the date of registration, teams can define custom vesting period for each addresses.
-- These tokens can move freely to other parachains and to their native parachain.
-- These tokens can move to Ethereum using  ChainBridge to call a smart contract in Ethereum that can deploy a ERC-20 contract that can mint/burn when tokens are sent from Polkadex to Ethereum or back. It gives backwards compatibility.
-- Polkadex Fungible Assets pallet will be further extended to support tokenizing shares of a company, and other real world assets.
+The tokens will have full ERC-20 functionality and an identity that can be approved by the governance showing support of the network. In the same way, as Twitter shows verified profiles the Polkadex governance will be able to approve and attest tokens. This will help to avoid fake tokens and allow our community to confirm certain projects. Tokens can have customizable vesting support from the date of registration. Teams can define a custom vesting period for each address. The tokens can move freely between their native parachain and other parachains. In Ethereum Network the transition will be done using ChainBridge. It will call a smart contract in Ethereum that can deploy an ERC-20 contract and mint or burn tokens sent between Polkadex and Ethereum networks, giving backwards compatibility. Polkadex Fungible Assets will be further enriched to support tokenizing company shares and other real-world assets.

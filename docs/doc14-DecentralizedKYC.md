@@ -4,5 +4,4 @@ title: Polkadex Orderbook Decentralized KYC
 sidebar_label: Decentralized KYC
 ---
 
-
-Information will be updated soon...
+Polkadex team will update the information here soon.

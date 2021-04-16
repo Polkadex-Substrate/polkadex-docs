@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       type: 'doc',
-      id: 'polkadexNonFungibleAssets'
+      id: 'polkadexNFTs'
     },
     {
       type: 'doc',

@@ -3,6 +3,6 @@ id: introductionPolkapool
 title: Introduction
 ---
 
-Polkapool is an automated market maker inspired from Uniswap V2 and solves the issues of Uniswap. 
+Polkapool is an Automated Market Maker inspired by Uniswap V2 and aiming to solve its issues.
 
 ![img](/img/polkapoolBanner.jpg)
