@@ -22,7 +22,7 @@ In the following sections, we present the key characteristics and analysis of th
 | Strategic Round                       | 8%            | 1,600,000     |
 | Private Round                         | 10.193%       | 2,038,600     |
 | Treasury                              | 41%           | 8,200,000     |
-| Liquidity Mining                      | 10%           | 2,000,000     |
+| Parachain Auction                     | 10%           | 2,000,000     |
 | Advisory                              | 6%            | 1,200,000     |
 | Marketing, Ecosystem and Partnership  | 6.807%        | 1,361,400     |
 | Community Round                       | 2%            | 400,000       |
