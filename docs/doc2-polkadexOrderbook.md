@@ -4,7 +4,6 @@ title: Polkadex Orderbook Introduction
 sidebar_label: Introduction
 ---
 
-![img](/img/orderbookTitleBanner.jpg)
 Polkadex Orderbook is our core product. It is a fully decentralized Layer 2 based exchange built on top of the Polkadot Network and featuring an orderbook. While working on Polkadex Orderbook we thought about two groups of traders:
 
 * The traders on traditional centralised exchanges who enjoy the speed of transactions and easy navigation but have to accept risks and give away control of their assets by putting a lot of trust in a centralized operator;
