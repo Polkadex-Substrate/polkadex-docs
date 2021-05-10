@@ -3,7 +3,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Overview',
-      items: ['vision', 'whatispolkadex', 'polkadexTeam', 'polkadexCommunity']
+      items: ['vision', 'whatispolkadex', 'whyPolkadot' , 'polkadexTeam', 'polkadexCommunity']
     },
     {
       type: 'category',
@@ -18,7 +18,6 @@ module.exports = {
       type: 'doc',
       id: 'polkadexNFTs'
     },
-   
     {
       type: 'doc',
       id: 'tokenEconomics'
@@ -28,6 +27,9 @@ module.exports = {
       label: 'Polkadex Network & Ecosystem',
       items: ['polkadexNetworkEcosystemGovernance', 'polkadexNetworkEcosystemStaking', 'polkadexNetworkEcosystemParachain', ]
     },
- 
+    {
+      type: 'doc',
+      id: 'polkadexRoadmap'
+    },
   ]
 };

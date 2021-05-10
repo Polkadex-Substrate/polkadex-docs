@@ -14,7 +14,7 @@ As Polkadex is a multi-feature project, PDEX was designed to be used for multipl
 * Nominate validators and collators of the network
 
 Now let’s take a deep dive into the core elements of Polkadex tokenomics.
-
+![img](/img/tokenEconomics.jpg)
 ---
 
 ### **Total supply**
