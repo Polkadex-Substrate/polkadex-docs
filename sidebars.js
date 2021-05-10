@@ -3,53 +3,31 @@ module.exports = {
     {
       type: 'category',
       label: 'Overview',
-      items: ['polkadex', 'vision', 'whyPolkadex']
+      items: ['vision', 'whatispolkadex', 'polkadexTeam', 'polkadexCommunity']
     },
     {
       type: 'category',
       label: 'Polkadex Orderbook',
-      items: ['introductionOrderbook']
-    },
-    {
-      type: 'category',
-      label: 'Polkapool',
-      items: ['introductionPolkapool', 'introductionPolkapoolFeatures', 'introductionPolkapoolMiningProgram', 'introductionPolkapoolBuybackMechanism']
+      items: ['orderbookIntroduction', 'orderbookArchitecture', 'orderbookBenefits', 'orderbookDecentralizedKYC','orderbookPolkadexFiat']
     },
     {
       type: 'doc',
-      id: 'polkadexFungibleAssets'
+      id: 'fungibleAssets'
     },
     {
       type: 'doc',
       id: 'polkadexNFTs'
     },
-    {
-      type: 'doc',
-      id: 'polkadexFiat'
-    },
-    {
-      type: 'doc',
-      id: 'decentralizedKYC'
-    },
+   
     {
       type: 'doc',
       id: 'tokenEconomics'
     },
     {
-      type: 'doc',
-      id: 'governance'
+      type: 'category',
+      label: 'Polkadex Network & Ecosystem',
+      items: ['polkadexNetworkEcosystemGovernance', 'polkadexNetworkEcosystemStaking', 'polkadexNetworkEcosystemParachain', ]
     },
-    {
-      type: 'doc',
-      id: 'polkadexParachain'
-    },
-    {
-      type: 'doc',
-      id: 'polkadexNodeOperator'
-    },
-    {
-      type: 'doc',
-      id: 'polkadexIntegrationsandBridges'
-    }
+ 
   ]
 };
