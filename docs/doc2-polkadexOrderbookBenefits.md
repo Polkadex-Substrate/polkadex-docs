@@ -17,3 +17,4 @@ Polkadex caters to traders who want to focus on getting the most advanced tradin
 * **Polkadex Orderbook will support all the favourite trading bots of our community**.
 
 * **Traders can buy and sell any ERC-20 tokens and other Substrate projects before Polkadex becomes a parachain**. As soon as Polkadex becomes a parachain we will also support any tokens issued on Kusama, Polkadot and other DOT ecosystem projects that use Substrate.
+![img](/img/botsHero.png)
