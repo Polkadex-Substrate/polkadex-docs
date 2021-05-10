@@ -19,4 +19,5 @@ Polkadex Orderbook consists of four core parts: Polkadex Network, Trusted Execut
 * **IPFS or Interplanetary File System** maintains a snapshot of the latest state of balance transfers. In case the hardware is corrupted or the network access is lost or if the operator itself is compromised or turns a bad actor, blockchain rejects all future transfers from the orderbook and returns the funds to its users within 12 seconds, the fastest recovery mechanisms available in the market today. This acts like an insurance policy for the entire exchange.
 
 The diagram below shows how Polkadex Orderbook executes the trades.
+
 ![img](/img/orderbookBanner.jpg)
