@@ -1,7 +1,7 @@
 ---
 id: IDOPlatform
 title: Polkadex IDO Platform
-sidebar_label: PPolkadex IDO Platform
+sidebar_label: Polkadex IDO Platform
 ---
 
 The crypto industry is growing both in the number of new blockchain projects and new users, who want to invest in tokens early on and make the most out of the project's growth. This led to a real boom in demand for services of Initial DEX Offering (IDO) platforms.

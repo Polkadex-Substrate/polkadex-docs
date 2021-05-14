@@ -12,6 +12,10 @@ module.exports = {
     },
     {
       type: 'doc',
+      id: 'IDOPlatform'
+    },
+    {
+      type: 'doc',
       id: 'fungibleAssets'
     },
     {
