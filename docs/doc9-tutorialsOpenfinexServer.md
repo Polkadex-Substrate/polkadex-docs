@@ -22,10 +22,12 @@ The rsa-key will be used for JWT authentication. This key is currently not fixed
 The other files can be obtained from Gautham or Bigna TODO: Better solution for that?!
 
 #### Barong JWT: 
-not necessary for server start up, only used for RSA key and / or JWT generation
-- `git clone https://github.com/openware/barong-jwt.git`
-- `cd barong-jwt`
-- `go run main.go -role admin`
+not necessary for server start up, only used for RSA key and / or JWT generation:
+```bash
+git clone https://github.com/openware/barong-jwt.git
+cd barong-jwt
+go run main.go -role admin
+```
 
 This will 
 1) create a config folder containing an rsa-key pair. Copy paste this folder to the folder where you have your polkadex.tar file and compose folder.
