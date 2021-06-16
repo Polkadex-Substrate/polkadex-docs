@@ -17,8 +17,8 @@ What you need:
   - rsa-key
   - rsa-key.pub
 
-The rsa-key will be used for JWT authentication. This is key is currently not defined, any rsa key will suffice for now. Rsa keys and JWT token can be generated with 
-[barong-jwt](https://github.com/openware/barong-jwt)
+The rsa-key will be used for JWT authentication. This key is currently not fixed, so any rsa key will suffice for now. Rsa keys and JWT token can be generated with 
+[barong-jwt](https://github.com/openware/barong-jwt).
 The other files can be obtained from Gautham or Bigna TODO: Better solution for that?!
 
 #### Barong JWT: 
