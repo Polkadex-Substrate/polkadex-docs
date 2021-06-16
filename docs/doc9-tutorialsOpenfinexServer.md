@@ -46,7 +46,7 @@ You can test the server with:
 wscat --connect localhost:8001/api/v2/ws --header "Authorization: Bearer [JWTTOKEN]"
 ```
 
-Currently, new accounts need to be registed manually (see issue [#94](https://github.com/Polkadex-Substrate/polkadexTEE-worker/issues/94)). This can be done the following way:
+Currently, new accounts need to be registed manually (see issue [#94](https://github.com/Polkadex-Substrate/polkadexTEE-worker/issues/94)). This can be done as described below:
 ```bash
 # Exec to database:
 docker-compose -f compose/upstream_compose.yml exec database mysql -uroot --database finex_development
