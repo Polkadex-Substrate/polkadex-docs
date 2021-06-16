@@ -1,7 +1,9 @@
 ---
-id: howTo
-title: Tutorials
+id: OpenfinexServerHowTo
+title: How to use the Openfinex Server
+sidebar_label: Tutorials
 ---
+
 This is currently just a Knowhow dump, not a full fledged tutorial.
 
 ### Openfinex Server
