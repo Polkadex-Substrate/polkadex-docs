@@ -20,7 +20,7 @@ cd polkadexTEE-worker/bin
  ./substratee-worker -P 2094 -p 9994 -F 8001/api/v2/ws -f 127.0.0.1 run --skip-ra
 ```
 
-### Talk to the worker with the Client
+### Talk to the worker (with --direct) and node with the Client
 ```bash
 cd polkadexTEE-worker/bin
 # register Account
@@ -30,6 +30,7 @@ cd polkadexTEE-worker/bin
 # direct place order example
 ./substratee-client -p 9994 -P 2094 trusted place_order --accountid=//Alice --marketbase=polkadex --marketquote=dot \
 --markettype=trusted --ordertype=limit --price=100 --orderside=bid --quantity=100 --mrenclave==6J3VHscuA9WmiQHf84CK1CHu87GkNcwBAyJ6pPjaCvrv --direct
-
+# get balance
+./substratee-client -p 9994 -P 2094 get_balance --accountid=//Alice --tokenid=usd --mrenclave=9GSUY4WM3Yim5337AKweJN5Kb9K4yHjFmToLpNccwu7L --direct
 ```
 The mreclace is printed at every worker start up, just get it from there.
