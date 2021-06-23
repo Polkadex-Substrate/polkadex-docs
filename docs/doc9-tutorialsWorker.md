@@ -30,6 +30,7 @@ cd polkadexTEE-worker/bin
 ./substratee-client -p 9994 -P 2094 deposit --accountid=//Alice --tokenid=polkadex --quantity=10000
 # withdraw funds from offchain account
  ./substratee-client -p 9994 -P 2094 withdraw --accountid=//Bob --tokenid=dot --quantity=1000
+ 
 ### Direct calls (to worker):
 # place order
 ./substratee-client -p 9994 -P 2094 trusted place_order --accountid=//Alice --marketbase=polkadex --marketquote=dot \
