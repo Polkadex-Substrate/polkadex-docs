@@ -5,6 +5,8 @@ sidebar_label: Tutorials
 ---
 
 This is currently just a Knowhow dump, not a full fledged tutorial.
+### Node Start Up
+`./target/release/polkadex-node --dev --tmp --ws-port 9994 `
 
 ### Worker Start Up
 Once you have started the Polkadex node and the openfinex server, you can finally start the worker:
@@ -18,6 +20,17 @@ cd polkadexTEE-worker/bin
 # -f <OPENFINEXADDRESS> the openfinex server address
 # if one of the above is not specified, a default value will be taken instead.
  ./substratee-worker -P 2094 -p 9994 -F 8001/api/v2/ws -f 127.0.0.1 run --skip-ra
+```
+in case you encounter the error:
+```bash
+Remaining blocks to fetch until last synced header: 4294967175
+thread 'main' panicked at 'called `Option::unwrap()` on a `None` value', worker/src/main.rs:571:14
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+```
+then you've probably restarted the node. Since the worker saves the node state within it's chain relay it's expecting the same chain state as before the restart. Since that's not what we want, we need to remove the saved state with:
+```bash
+cd polkadexTEE-worker/bin
+rm -rf chain_relay_db.bin
 ```
 
 ### Talk to the worker (with --direct) and node with the Client
