@@ -12,6 +12,11 @@ This is currently just a Knowhow dump, not a full fledged tutorial.
 Once you have started the Polkadex node and the openfinex server, you can finally start the worker:
 ```bash
 cd polkadexTEE-worker/bin
+# initialize the worker parts:
+./touch spid.txt key.txt
+./substratee-worker init-shard
+./substratee-worker shielding-key
+./substratee-worker signing-key
 # ensure that you're on the develop branch (just like the node)
 # run the worker with: 
 # -P <WORKERPORT> the user client can talk to
