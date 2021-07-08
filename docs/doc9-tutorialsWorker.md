@@ -13,7 +13,7 @@ Once you have started the Polkadex node and the openfinex server, you can finall
 ```bash
 cd polkadexTEE-worker/bin
 # initialize the worker parts:
-./touch spid.txt key.txt
+touch spid.txt key.txt
 ./substratee-worker init-shard
 ./substratee-worker shielding-key
 ./substratee-worker signing-key
