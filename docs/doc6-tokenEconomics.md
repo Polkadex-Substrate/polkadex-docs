@@ -66,7 +66,7 @@ Treasury is locked by on-chain governance and can be released only by votes of u
 
 ### **Advisors**
 
-As Polkadex aims very high at solving issues of the current DeFi system and attracting mass users to the industry, we invited the best experts from blockchain, finance, legal and other industries to help us create the most efficient product and ecosystem. Our advisors receive 6% of the total token supply (1.2 mln) distributed according to the following schedule: 10% of tokens is released 6 months after the Mainnet launch and the remaining is vested quarterly over the next 12 months.
+As Polkadex aims very high at solving issues of the current DeFi system and attracting mass users to the industry, we invited the best experts from blockchain, finance, legal and other industries to help us create the most efficient product and ecosystem. Our advisors receive 6% of the total token supply (1.2 mln) distributed according to the following schedule: 10% of tokens is released six months after the  Token Generation Event and remaining vested quarterly over the next 12 months.
 
 ### **Marketing, Ecosystem and Partnerships**
 
