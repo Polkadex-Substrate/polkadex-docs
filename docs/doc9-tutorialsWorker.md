@@ -71,6 +71,6 @@ You can find some demo scripts in the client folder. In case you're running the 
 ```
 The script can then be started with:
 ```bash
-./scriptname.sh -p 9994 -P 2094
+./scriptname.py -p 9994 -P 2094
 ```
 Enjoy ! :)
