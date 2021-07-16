@@ -63,3 +63,14 @@ cd polkadexTEE-worker/bin
     --tokenid=dot --quantity=293 --mrenclave 9GSUY4WM3Yim5337AKweJN5Kb9K4yHjFmToLpNccwu7L --direct
 ```
 The mreclace is printed at every worker start up, just get it from there.
+
+### Start a demo
+You can find some demo scripts in the client folder. In case you're running the worker with --skip-ra mode, then you need to manually create a mrenclave first:
+```bash
+./substratee-worker mrenclave > ./mrenclave.b58
+```
+The script can then be started with:
+```bash
+./scriptname.sh -p 9994 -P 2094
+```
+Enjoy ! :)
