@@ -67,10 +67,12 @@ The mreclace is printed at every worker start up, just get it from there.
 ### Start a demo
 You can find some demo scripts in the client folder. In case you're running the worker with --skip-ra mode, then you need to manually create a mrenclave first:
 ```bash
+cd bin
 ./substratee-worker mrenclave > ./mrenclave.b58
 ```
 The script can then be started with:
 ```bash
+cd client
 ./scriptname.py -p 9994 -P 2094
 ```
 Enjoy ! :)
