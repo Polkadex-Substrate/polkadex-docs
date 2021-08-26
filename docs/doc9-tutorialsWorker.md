@@ -57,7 +57,7 @@ cd polkadexTEE-worker/bin
 ./substratee-client -p 9994 -P 2094 get_balance --accountid=//Alice --tokenid=usd --mrenclave=9GSUY4WM3Yim5337AKweJN5Kb9K4yHjFmToLpNccwu7L --direct
 # cancel order
 ./substratee-client -p 9994 -P 2094 trusted cancel_order --accountid=//Alice --proxyaccountid=//AliceIncognitoProxy \
-    --orderid=oijef03jaf --mrenclave 9GSUY4WM3Yim5337AKweJN5Kb9K4yHjFmToLpNccwu7L --direct
+    --orderid=oijef03jaf --marketbase=polkadex --marketquote=dot --mrenclave 9GSUY4WM3Yim5337AKweJN5Kb9K4yHjFmToLpNccwu7L --direct
 #  withdraw funds
 ./substratee-client -p 9994 -P 2094 trusted withdraw --accountid=//Alice --proxyaccountid=//AliceProxy \
     --tokenid=dot --quantity=293 --mrenclave 9GSUY4WM3Yim5337AKweJN5Kb9K4yHjFmToLpNccwu7L --direct
