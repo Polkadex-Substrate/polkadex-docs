@@ -31,9 +31,5 @@ module.exports = {
       label: 'Polkadex Network & Ecosystem',
       items: ['polkadexNetworkEcosystemGovernance', 'polkadexNetworkEcosystemStaking', 'polkadexNetworkEcosystemParachain', ]
     },
-    {
-      type: 'doc',
-      id: 'polkadexRoadmap'
-    },
   ]
 };
