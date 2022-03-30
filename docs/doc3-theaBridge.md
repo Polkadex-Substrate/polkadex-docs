@@ -67,7 +67,7 @@ While hardline advocates of decentralization might venture that the custodial na
 
 ***So, currently the existing systems looks similar to this:***
 
-![Existing System](https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/thea4.jpg)
+![Existing System](https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/thea2.png)
 
 ## The Quest for an elegant bridge solution
 
@@ -128,7 +128,7 @@ As a starting point, a light client needs to download the block headers of the b
 
 Currently, our validator set is around 150. On a high level, the bridge looks like this:
 
-![Thea Bridge](https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/thea3.jpg)
+![Thea Bridge](https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/thea.png)
 
 Polkadex validators act as relayers which are as decentralized as the Polkadex blockchain. THEA uses multi-party ECDSA, hence there is no central point of attack. Effectively, THEA allows Polkadex Blockchain validators to hold wallets in other layer 1 blockchains.
 
