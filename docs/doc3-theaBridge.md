@@ -7,7 +7,7 @@
 
 **Protocol:** THEA stands for Threshold ECDSA, or Threshold Signature scheme applied through Elliptic Curve Cryptography
 
-Abstract: Polkadex wants to make use of an efficient  and inexpensive decentralized bridge to layer 1 blockchains to allow its assets to interoperate with the Substrate-based Polkadex blockchain. This will allow assets from other blockchains to be easily ported and traded on the Polkadex orderbook exchange, without affecting the user experience. The purpose of this whitepaper is to present an alternative to existing bridges that use expensive on-chain multisig based smart contracts or centralized relayer sets to bridge assets from Layer 1 to Layer 2.**
+Abstract: Polkadex wants to make use of an efficient  and inexpensive decentralized bridge to layer 1 blockchains to allow its assets to interoperate with the Substrate-based Polkadex blockchain. This will allow assets from other blockchains to be easily ported and traded on the Polkadex orderbook exchange, without affecting the user experience. The purpose of this whitepaper is to present an alternative to existing bridges that use expensive on-chain multisig based smart contracts or centralized relayer sets to bridge assets from Layer 1 to Layer 2.
 
 ## Co-authored
 <table>
