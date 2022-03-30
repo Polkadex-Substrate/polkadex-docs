@@ -1,8 +1,4 @@
----
-id: theBrige
-title: Thea Decentralized Bridge
-sidebar_label: Polkadex IDO Platform
----
+
 <h1 align="center">
     <img alt="Thea Bridge" title="#thea" src="https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/theaCover.jpg" />
 </h1>
