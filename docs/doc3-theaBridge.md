@@ -4,7 +4,7 @@ title: Thea Decentralized Bridge
 sidebar_label: Polkadex IDO Platform
 ---
 <h1 align="center">
-    <img alt="Thea Bridge" title="#thea" src="https://github.com/Polkadex-Substrate/polkadex-docs/tree/master/static/img/theaCover.jpg" />
+    <img alt="Thea Bridge" title="#thea" src="https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/theaCover.jpg" />
 </h1>
 
 # THEA Decentralized Bridge - White Paper
@@ -16,8 +16,8 @@ Abstract: Polkadex wants to make use of an efficient  and inexpensive decentrali
 ## Co-authored
 <table>
   <tr>
-    <td align="center"><a href="mailto:vivek@polkadex.trade"><img style="border-radius: 50%;" src="https://github.com/Polkadex-Substrate/polkadex-docs/tree/master/static/img/vivek.jpg" width="100px;" alt=""/><br /><sub><b>Vivek Prasannan</b></sub></a><br /><a href="https://polkadex.trade" title="Polkadex"></a></td>
-    <td align="center"><a href="mailto:gautham@polkadex.trade"><img style="border-radius: 50%;" src="https://github.com/Polkadex-Substrate/polkadex-docs/tree/master/static/img/gautham.jpg" width="100px;" alt=""/><br /><sub><b>Gautham J</b></sub></a><br /><a href="https://polkadex.trade" title="Polkadex"></a></td>
+    <td align="center"><a href="mailto:vivek@polkadex.trade"><img style="border-radius: 50%;" src="https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/vivek.jpg" width="100px;" alt=""/><br /><sub><b>Vivek Prasannan</b></sub></a><br /><a href="https://polkadex.trade" title="Polkadex"></a></td>
+    <td align="center"><a href="mailto:gautham@polkadex.trade"><img style="border-radius: 50%;" src="https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/gautham.jpg" width="100px;" alt=""/><br /><sub><b>Gautham J</b></sub></a><br /><a href="https://polkadex.trade" title="Polkadex"></a></td>
   </tr>
 </table>
 
@@ -71,7 +71,7 @@ While hardline advocates of decentralization might venture that the custodial na
 
 ***So, currently the existing systems looks similar to this:***
 
-![Existing System](https://github.com/Polkadex-Substrate/polkadex-docs/tree/master/static/img/thea4.jpg)
+![Existing System](https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/thea4.jpg)
 
 ## The Quest for an elegant bridge solution
 
@@ -132,7 +132,7 @@ As a starting point, a light client needs to download the block headers of the b
 
 Currently, our validator set is around 150. On a high level, the bridge looks like this:
 
-![Thea Bridge](https://github.com/Polkadex-Substrate/polkadex-docs/tree/master/static/img/thea3.jpg)
+![Thea Bridge](https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/thea3.jpg)
 
 Polkadex validators act as relayers which are as decentralized as the Polkadex blockchain. THEA uses multi-party ECDSA, hence there is no central point of attack. Effectively, THEA allows Polkadex Blockchain validators to hold wallets in other layer 1 blockchains.
 
