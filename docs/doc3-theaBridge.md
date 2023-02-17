@@ -1,7 +1,13 @@
+---
+id: theaBridge
+title: THEA Bridge
+sidebar_label: THEA
+---
 
-<h1 align="center">
-    <img alt="Thea Bridge" title="#thea" src="https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/theaCover.jpg" />
-</h1>
+
+
+![Thea Bridge](https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/theaCover.jpg)
+
 
 # THEA Decentralized Bridge - White Paper
 
@@ -12,10 +18,25 @@ Abstract: Polkadex wants to make use of an efficient  and inexpensive decentrali
 ## Co-authored
 <table>
   <tr>
-    <td align="center"><a href="mailto:vivek@polkadex.trade"><img style="border-radius: 50%;" src="https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/vivek.jpg" width="100px;" alt=""/><br /><sub><b>Vivek Prasannan</b></sub></a><br /><a href="https://polkadex.trade" title="Polkadex"></a></td>
-    <td align="center"><a href="mailto:gautham@polkadex.trade"><img style="border-radius: 50%;" src="https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/gautham.jpg" width="100px;" alt=""/><br /><sub><b>Gautham J</b></sub></a><br /><a href="https://polkadex.trade" title="Polkadex"></a></td>
+    <td align="center">
+      <a href="mailto:vivek@polkadex.trade">
+        <img
+          src="https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/vivek.jpg"
+          width="100px;"
+        /><br /><sub><b>Vivek Prasannan</b></sub></a
+      ><br /><a href="https://polkadex.trade" title="Polkadex"></a>
+    </td>
+    <td align="center">
+      <a href="mailto:gautham@polkadex.trade"
+        ><img
+          width="100px;"
+          src="https://github.com/Polkadex-Substrate/polkadex-docs/blob/master/static/img/gautham.jpg"
+        /><br /><sub><b>Gautham J</b></sub></a
+      ><br /><a href="https://polkadex.trade" title="Polkadex"></a>
+    </td>
   </tr>
 </table>
+
 
 ## Table of contents
 

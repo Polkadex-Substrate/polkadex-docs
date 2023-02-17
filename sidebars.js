@@ -8,11 +8,15 @@ module.exports = {
     {
       type: 'category',
       label: 'Polkadex Orderbook',
-      items: ['orderbookIntroduction', 'orderbookArchitecture', 'orderbookBenefits', 'orderbookDecentralizedKYC','orderbookPolkadexFiat']
+      items: ['orderbookIntroduction', 'orderbookArchitecture', 'orderbookBenefits','orderbookPolkadexFiat']
     },
     {
       type: 'doc',
       id: 'IDOPlatform'
+    },
+    {
+      type: 'doc',
+      id: 'theaBridge'
     },
     {
       type: 'doc',
@@ -21,7 +25,7 @@ module.exports = {
     {
       type: 'doc',
       id: 'polkadexNFTs'
-    },
+    }, 
     {
       type: 'doc',
       id: 'tokenEconomics'
