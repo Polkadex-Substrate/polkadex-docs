@@ -8,7 +8,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Polkadex Orderbook',
-      items: ['orderbookIntroduction', 'orderbookArchitecture', 'orderbookBenefits','orderbookPolkadexFiat']
+      items: ['orderbookIntroduction', 'orderbookArchitecture', 'orderbookBenefits','orderbookPolkadexFiat', "orderbookPolkadexFAQ"]
     },
     {
       type: 'doc',
