@@ -5,12 +5,12 @@ sidebar_label: Balances Page
 ---
 ![img](/img/balancesPage.webp)
 ### What is Deposit?
-![img](/img/aboutDeposit.webp)
+![img](/img/aboutWithdraw.webp)
 In this context, '**Deposit**' refers to the action of **transferring tokens from either a Polkadot Parachain or the Polkadot Relay Chain into the Polkadex network** for the purpose of trading.
 
 
 ###  What is Withdrawal?
-![img](/img/aboutWithdraw.webp)
+![img](/img/aboutDeposit.webp)
 In this context, '**Withdrawal**' refers to the action of **transferring tokens from the Polkadex network to any other Polkadot Parachain or the Polkadot Relay Chain**.
 
 ###  What is Transfer?
