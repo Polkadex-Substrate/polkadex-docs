@@ -60,5 +60,5 @@ It's important to note that while funds are shared across linked Trading account
 
   > Trades initiated from one trading account cannot be canceled using another Trading account linked to the same Funding account. Cancellation of trades must be managed within the same Trading account where the trades were placed.
 
-### Why are there multiple trading accounts?
+### How many trading accounts can there be for a funding account?
 Each Funding account within the Polkadex Orderbook platform can be linked to a maximum of three distinct Trading accounts.
