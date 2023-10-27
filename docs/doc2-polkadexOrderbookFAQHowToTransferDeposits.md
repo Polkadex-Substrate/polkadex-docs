@@ -14,6 +14,7 @@ sidebar_label: Deposits
 6. **Confirm the details on the side window, click ‘Confirm Transaction’** and approve the transaction using your browser wallet to initiate your deposit between the network of origin and the Polkadex parachain.
 ![img](/img/deposit3.webp)
 7. **Once the transfer is approved on Polkadex Parachain (in about a minute), your deposit will appear as ‘(1/2 Approved)’ on the ‘[Transactions](https://thea.polkadex.trade/transactions)’ page**, as **you still need to claim the deposit from the Polkadex parachain to complete the transfer** to the Polkadex network. You may need to ‘Refresh’ the ‘Transaction Log’ to see it.
+![img](/img/deposit4.webp)
 8. **After your deposit is marked as ‘Approved’ in the [Transaction Log](https://thea.polkadex.trade/transactions), a ‘Claim Deposits’ button will appear** on the top right corner of the Transaction Log. **Click on ‘Claim Deposits’ to claim any of your unclaimed deposits** from the Polkadex parachain to your Polkadex network account and complete the deposit process.
 9. **Navigate to the ‘[Balances](https://orderbook.polkadex.trade/balances)’ page on Polkadex Orderbook to see your deposit reflected in your Funding Account balance**.
 10. **Finally, use the Orderbook transfer function in the ‘Balances’ page to transfer your newly added funds** from your Funding Account to your Trading Account in order to trade.
