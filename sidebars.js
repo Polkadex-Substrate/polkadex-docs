@@ -12,7 +12,7 @@ module.exports = {
       {
         type: 'category',
         label: 'FAQ',
-        items: ['orderbookPolkadexFAQWallets','orderbookPolkadexFAQBalances', 'orderbookPolkadexFAQTransfer'],
+        items: ['orderbookPolkadexFAQWallets','orderbookPolkadexFAQBalances', 'orderbookPolkadexFAQTransfer', 'orderbookPolkadexFAQHowToTrade'],
       },
     ]
     },
