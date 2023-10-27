@@ -12,26 +12,26 @@ module.exports = {
       {
         type: 'category',
         label: 'FAQ',
-        items: ['orderbookPolkadexFAQWallets','orderbookPolkadexFAQBalances', 'orderbookPolkadexFAQTransfer', 'orderbookPolkadexFAQHowToTrade'],
+        items: ['orderbookPolkadexFAQWallets','orderbookPolkadexFAQBalances', 'orderbookPolkadexFAQTransfer'],
       },
     ]
     },
     {
-      type: 'doc',
-      id: 'IDOPlatform'
+      type: "category",
+      label: "Orderbook Guide",
+      items: [{
+        type: 'category',
+        label: 'How to trade on Polkadex Orderbook?',
+        items: ['orderbookPolkadexFAQHowToTradeStep1', "orderbookPolkadexFAQHowToTradeStep2","orderbookPolkadexFAQHowToTradeStep3","orderbookPolkadexFAQHowToTradeStep4","orderbookPolkadexFAQHowToTradeStep5","orderbookPolkadexFAQHowToTradeStep6"],
+      },
+      {
+        type: 'category',
+        label: 'How to transfer funds from other networks to Polkadex (THEA)?',
+        items: ["polkadexOrderbookFAQHowToTransferDeposits", "polkadexOrderbookFAQHowToTransferWithdrawals"],
+      }
+    ],
+    
     },
-    {
-      type: 'doc',
-      id: 'theaBridge'
-    },
-    {
-      type: 'doc',
-      id: 'fungibleAssets'
-    },
-    {
-      type: 'doc',
-      id: 'polkadexNFTs'
-    }, 
     {
       type: 'doc',
       id: 'tokenEconomics'
