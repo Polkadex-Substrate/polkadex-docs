@@ -24,8 +24,8 @@ After verification, use your credentials to log in to Orderbook.
 ![img](/img/step4.webp)
 3. In ‘[Wallets](https://orderbook.polkadex.trade/wallets)’, scroll down to 'Funding Accounts'.
 4. Here, you'll see any and all your available Polkadex accounts from your Polkadot wallets in your browser extensions.
-![img](/img/step5.webp)
 5. Select the account you want to connect to the Orderbook by clicking on the '**Use in Orderbook**' button.
+![img](/img/step5.webp)
 6. Sign the pop-up message that appears. This grants permission for the Orderbook to access this account.
 
 ## Step 3: Create a Trading Account on Orderbook
