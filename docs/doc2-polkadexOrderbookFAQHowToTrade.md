@@ -8,9 +8,9 @@ sidebar_label: How to trade on Polkadex Orderbook?
 
 ## Step 1: Sign up with your email address
 1. Visit [https://orderbook.polkadex.trade](https://orderbook.polkadex.trade)
-2. Click on 'Start Trading' on the [landing page](https://orderbook.polkadex.trade/trading/).
+2. Click on 'Start Trading' on the [landing page](https://orderbook.polkadex.trade/).
 ![img](/img/step1.webp)
-3. Click on 'Register' at the top right corner of the page in order to sign up.
+3. Click on '[Register](https://orderbook.polkadex.trade/sign)' at the top right corner of the page in order to sign up.
 ![img](/img/step2.webp)
 4. Input your email address, choose a password, agree to the terms, and then click 'Create an Account'.
 ![img](/img/step3.webp)
@@ -22,30 +22,30 @@ After verification, use your credentials to log in to Orderbook.
 1. Once you’re signed in, make sure to connect your Polkadex account to Orderbook. Make sure to connect the account containing the funds you wish to trade.
 2. You can connect your account on your browser extension wallet by clicking on the top right corner ‘No wallet selected’ box or navigating to the ‘[Wallets](https://orderbook.polkadex.trade/wallets)’ page (wallet icon in the vertical menu on the left of the screen).
 ![img](/img/step4.webp)
-3. In ‘Wallets’, scroll down to 'Funding Accounts'.
+3. In ‘[Wallets](https://orderbook.polkadex.trade/wallets)’, scroll down to 'Funding Accounts'.
 4. Here, you'll see any and all your available Polkadex accounts from your Polkadot wallets in your browser extensions.
 ![img](/img/step5.webp)
-5. Select the account you want to connect to the Orderbook by clicking on the 'Use in Orderbook' button.
+5. Select the account you want to connect to the Orderbook by clicking on the '**Use in Orderbook**' button.
 6. Sign the pop-up message that appears. This grants permission for the Orderbook to access this account.
 
 ## Step 3: Create a Trading Account on Orderbook
 1. Create a Trading Account linked to a Funding Account specifically for trading purposes.
-2. Scroll up to the 'Trading Accounts' section of the ‘Wallets’ page and click on '+New Account'.
+2. Scroll up to the 'Trading Accounts' section of the ‘Wallets’ page and click on '**+ New Account**'.
 ![img](/img/step6.webp)
 3. A window will appear on the right side of the page. Select 'Create new trading account'.
 4. From the options available, choose the Funding Account you just connected to the Orderbook in Step 2.
 5. You can either enter a custom name for your Trading Account or click on 'Random' to generate a name automatically.
 6. You also have the option to set up a 5-digit Trading Account password for enhanced security.
 ![img](/img/step7.webp)
-7. Click on 'Create Account'. This action will register your Funding Account with the Orderbook and generate a Trading Account linked to it.
+7. Click on '**Create Account**'. This action will register your Funding Account with the Orderbook and generate a Trading Account linked to it.
 ![img](/img/step8.webp)
 
 > **_NOTE:_** You can create up to three Trading Accounts associated with a specific Funding Account.
 
 ## Step 4: Transfer funds from Funding Account to Trading Account
 
-1. Ensure your Funding Account has enough funds. (If you need to transfer assets from a foreign chain to the Polkadex blockchain, consult the THEA guide in the following section)
-2. To move funds to your Trading Account, navigate to the 'Balances' page on Orderbook. You can do this by:
+1. **Ensure your Funding Account has enough funds**. (If you need to transfer assets from a foreign chain to the Polkadex blockchain, consult the THEA guide in the following section)
+2. To move funds to your Trading Account, navigate to the '[Balances](https://orderbook.polkadex.trade/balances)' page on Orderbook. You can do this by:
 ![img](/img/step9.webp)
    1. Either selecting the '[Add Funds](https://orderbook.polkadex.trade/balances)' option next to your Trading Account on the 'Wallets' page 
    2. Or by clicking the '[Balances](https://orderbook.polkadex.trade/balances)' tab on the left panel.
