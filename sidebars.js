@@ -8,13 +8,11 @@ module.exports = {
     {
       type: 'category',
       label: 'Polkadex Orderbook',
-      items: ['orderbookIntroduction', 'orderbookArchitecture', 'orderbookBenefits','orderbookPolkadexFiat',
-      {
+      items: [{
         type: 'category',
         label: 'FAQ',
         items: ['orderbookPolkadexFAQWallets','orderbookPolkadexFAQBalances', 'orderbookPolkadexFAQTransfer'],
-      },
-    ]
+      }]
     },
     {
       type: "category",
