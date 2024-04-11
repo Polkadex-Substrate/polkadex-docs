@@ -1,6 +1,7 @@
 ---
 id: tokenEconomics
 title: Token Economics
+sidebar_position: 4
 ---
 
 As Polkadex is a multi-feature project, PDEX was designed to be used for multiple functions.

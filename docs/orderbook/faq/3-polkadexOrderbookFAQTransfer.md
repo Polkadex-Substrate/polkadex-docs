@@ -1,8 +1,9 @@
 ---
-id: orderbookPolkadexFAQTransfer
 title: ""
 sidebar_label: Transfer Page
+sidebar_position: 3
 ---
+
 ![img](/img/transferPage.webp)
 ### How do I transfer funds to the Trading Account from my Funding Account for trading?
 ![img](/img/aboutTranferFunding.webp)

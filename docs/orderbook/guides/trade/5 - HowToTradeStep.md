@@ -1,7 +1,7 @@
 ---
 id: orderbookPolkadexFAQHowToTradeStep6
-title: "Step 6: Transfer funds back to your Funding Account"
-sidebar_label: "Step 6: Transfer funds back to your Funding Account"
+title: "Step 5: Transfer funds back to your Funding Account"
+sidebar_label: "Step 5: Transfer funds back to your Funding Account"
 ---
 
 1. Navigate to the ‘[Balances](https://orderbook.polkadex.trade/balances)’ page by clicking the '[Balances](https://orderbook.polkadex.trade/balances)' tab on the left panel.

@@ -1,7 +1,7 @@
 ---
 id: orderbookPolkadexFAQHowToTradeStep2
-title: "Step 2: Connect your Funding Account to Orderbook"
-sidebar_label: "Step 2: Connect your Funding Account to Orderbook"
+title: "Step 1: Connect your Funding Account to Orderbook"
+sidebar_label: "Step 1: Connect your Funding Account to Orderbook"
 ---
 
 1. **Once you’re signed** in, make sure to connect your Polkadex account to Orderbook. **Make sure to connect the account containing the funds you wish to trade**.

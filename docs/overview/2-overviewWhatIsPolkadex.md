@@ -1,7 +1,7 @@
 ---
-id: whatispolkadex
 title: What is Polkadex?
 sidebar_label: What is Polkadex?
+sidebar_position: 2
 ---
 
 We believe that the optimal trading environment is very important for the growth of the crypto industry. Cryptocurrency trading has to be a secure and pleasant experience no matter if you are a novice, professional, retail or institutional trader.

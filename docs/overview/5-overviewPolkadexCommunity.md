@@ -2,6 +2,7 @@
 id: polkadexCommunity
 title: How to engage with Polkadex Community
 sidebar_label: Community
+sidebar_position: 5
 ---
 
 #### ![Telegram](/img/telegram.svg 'Telegram Logo')  [Telegram Announcements](https://t.me/PolkadexAnnouncements)

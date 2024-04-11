@@ -1,8 +1,9 @@
 ---
-id: orderbookPolkadexFAQWallets
 title: ""
 sidebar_label: Wallets Page
+sidebar_position: 1
 ---
+
 ![img](/img/walletsPage.webp)
 ### What is a Funding Account?
 ![img](/img/aboutFunding.webp)
@@ -17,27 +18,6 @@ The trading account is exclusively intended for conducting trades on the Polkade
 **Its functionality is restricted to executing trades** and returning tokens to the associated funding account upon completion of trading activities.
 
 A trading account linked to a specific funding account, possesses the capability to transfer tokens exclusively back to that corresponding funding account alone.
-
-###  How do I register my Funding account with Orderbook?
-<video width="100%" height="100%" controls src="/videos/register.mp4"></video>
-
-1. Begin by **registering or logging** into Polkadex Orderbook using your email address.
-
-2. In the '**Wallets**' tab, located on the left-hand pane, navigate to the '**Funding Accounts**' section to see a list of your available accounts you can use to connect to the Orderbook.
-
-3. **Select the desired account and** click 'Use in Orderbook,' then proceed to sign the Polkadot.js message in order to use your account in Orderbook.
-
-4. **Following this authorization**, you will see the '**Register Now**' option appear adjacent to the selected account.
-
-5. Opt for 'Register Now' adjacent to the preferred account you intend to use as your Funding account.
-
-6. **Upon registering a funding account, a Trading account is automatically generated**. Follow the instructions presented on the right-hand side of your screen and select 'Register and Create Account.'
-
-7. **Sign the transaction using your Funding account** via the Polkadot.js browser extension.
-
-8. **Your Funding Account is now registered**, and a linked Trading account is created. You can locate the Trading account in the 'Trading Accounts' section at the top of the page.
-
-9. Here you have an option called ‘**Add Funds**’ to transfer tokens into this Trading account from the associated Funding account to commence trading. 
 
 ### How do I add new trading accounts?
 <video width="100%" height="100%" controls src="/videos/createAccount.mp4"></video>

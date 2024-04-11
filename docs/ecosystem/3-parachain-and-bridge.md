@@ -1,7 +1,7 @@
 ---
-id: polkadexNetworkEcosystemParachain
 title: Parachain, Integrations & Bridges
 sidebar_label: Parachain, Integrations & Bridges
+sidebar_position: 3
 ---
 
 It is important for Polkadex to become a parachain in the Polkadot network so that it can reduce the cost of bringing tokens from the Ethereum network to Substrate. Becoming a parachain will also allow the trustless movement of these tokens.

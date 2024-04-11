@@ -1,7 +1,7 @@
 ---
-id: whyPolkadot
 title: Why we chose the Polkadot network
 sidebar_label: Why we chose the Polkadot network
+sidebar_position: 3
 ---
 
 The idea of Polkadex started back in 2018 when project leaders worked on a consensus algorithm to scale transaction throughput on a distributed network. Looking for a scalable use case they decided to apply the technology to a decentralized exchange. Later they came across the Polkadot network and Substrate framework that allowed building the final version of Polkadex.

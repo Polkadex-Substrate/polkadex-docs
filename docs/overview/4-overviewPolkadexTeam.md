@@ -1,7 +1,7 @@
 ---
-id: polkadexTeam
 title: Polkadex Team
 sidebar_label: Polkadex Team
+sidebar_position: 4
 ---
 
 Polkadex has a diverse multicultural team led by 3 co-founders: Vivek Prasannan, Gautham J and Deepansh Singh.

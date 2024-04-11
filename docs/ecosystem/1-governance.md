@@ -1,7 +1,7 @@
 ---
-id: polkadexNetworkEcosystemGovernance
 title: Governance
 sidebar_label: Governance
+sidebar_position: 1
 ---
 
 Polkadex network will use the governance mechanism of the Polkadot network. The governance is based on votes and their weight. Proposals will be submitted to on-chain governance and members will vote. Proposals will be approved or denied by the majority. You can read the detailed overview of how voting works here [https://wiki.polkadot.network/docs/en/learn-governance](https://wiki.polkadot.network/docs/en/learn-governance)

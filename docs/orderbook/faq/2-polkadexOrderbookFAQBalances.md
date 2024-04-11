@@ -1,8 +1,9 @@
 ---
-id: orderbookPolkadexFAQBalances
 title: ""
 sidebar_label: Balances Page
+sidebar_position: 2
 ---
+
 ![img](/img/balancesPage.webp)
 ### What is Deposit?
 ![img](/img/aboutWithdraw.webp)

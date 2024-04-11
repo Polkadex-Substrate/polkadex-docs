@@ -1,8 +1,7 @@
 ---
-id: vision
 title: Vision
 sidebar_label: Vision
-slug: /
+sidebar_position: 1
 ---
 
 The world has transformed in the past few years with lightning speed. The way people conduct financial transactions evolved, as well.

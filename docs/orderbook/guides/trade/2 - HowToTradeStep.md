@@ -1,7 +1,7 @@
 ---
 id: orderbookPolkadexFAQHowToTradeStep3
-title: "Step 3 Create a Trading Account on Orderbook"
-sidebar_label: "Step 3 Create a Trading Account on Orderbook"
+title: "Step 2 Create a Trading Account on Orderbook"
+sidebar_label: "Step 2 Create a Trading Account on Orderbook"
 ---
 
 1. Create a Trading Account linked to a Funding Account specifically for trading purposes.

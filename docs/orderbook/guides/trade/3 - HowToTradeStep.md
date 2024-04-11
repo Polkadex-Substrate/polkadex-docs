@@ -1,7 +1,7 @@
 ---
 id: orderbookPolkadexFAQHowToTradeStep4
-title: "Step 4: Transfer funds from Funding Account to Trading Account"
-sidebar_label: "Step 4: Transfer funds from Funding Account to Trading Account"
+title: "Step 3: Transfer funds from Funding Account to Trading Account"
+sidebar_label: "Step 3: Transfer funds from Funding Account to Trading Account"
 ---
 
 1. **Ensure your Funding Account has enough funds**. (If you need to transfer assets from a foreign chain to the Polkadex blockchain, consult the THEA guide in the following section)

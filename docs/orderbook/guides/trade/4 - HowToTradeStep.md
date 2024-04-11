@@ -1,7 +1,7 @@
 ---
 id: orderbookPolkadexFAQHowToTradeStep5
-title: "Step 5: Trade"
-sidebar_label: "Step 5: Trade"
+title: "Step 4: Trade"
+sidebar_label: "Step 4: Trade"
 ---
 
 1. **Once you have funds in your Trading Account**, navigate to the Exchange page. From there, **select the market you wish to trade** in from the top-left drop-down menu.

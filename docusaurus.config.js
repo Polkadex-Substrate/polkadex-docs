@@ -19,7 +19,7 @@ module.exports = {
       },
       items: [
         {
-          to: '/',
+          to: '/category/overview',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -87,7 +87,6 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           showLastUpdateTime: true,
           routeBasePath: '/',
-          // Please change this to your repo.
           editUrl:
             'https://github.com/Polkadex-Substrate/polkadex-docs/edit/master/',          
         },
