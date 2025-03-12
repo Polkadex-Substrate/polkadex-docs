@@ -4,7 +4,7 @@ title: Polkadex Team
 sidebar_label: Polkadex Team
 ---
 
-Polkadex has a diverse multicultural team led by 3 co-founders: Vivek Prasannan, Gautham J and Deepansh Singh.
+Polkadex has a diverse multicultural team led by 3 co-founders: Vivek Prasannan, Ajeesh Kumar and Sreecharan Kunutur.
 
 **Vivek Prasannan, Executive Director of Polkadex**, has a Btech Computer Engineering degree. He is passionate about decentralized computing and has been actively following the blockchain and cryptocurrency community since 2013. He has researched and worked on a new BSIP (Bitshares Improvement Proposal) for Bitshares that will enable off-chain activities to be settled transparently on the blockchain and savings accounts to be created for the users that are locked for a certain time to enhance fund security. Vivek is an entrepreneur who has founded, developed and successfully exited two start-ups in cloud computing, infrastructure support, and fintech space. His engineering knowledge includes C++, RUST & Substrate Framework.
 
