@@ -12,6 +12,9 @@ Polkadex has a diverse multicultural team led by 3 co-founders: Vivek Prasannan,
 
 **Sreecharan Kunutur, CTO of Polkadex**,With over 18 years of experience across Telecom, Fintech, AI, and Web 3 domains, he is a results-driven specialist dedicated to transforming the future of finance through decentralized technologies. Since 2006, He’s been at the forefront of tech innovation, and since 2017, I’ve concentrated on AI and Web 3, with a passion for advancing Fintech and DeFi. With a strong foundation in tech and a clear vision for the future, he continues to drive the adoption of decentralized finance, empowering businesses and individuals with innovative, secure, and impactful solutions.
 
+**Pramod Gopan, Mentor & Chief Advisor**
+Pramod Gopan is a seasoned business development and technology executive with over 25 years of experience in sales, channel management, and technical consulting. He has a strong track record of success in various industries, including commodity trading, finance, and technology. Pramod is an expert in trade finance instruments and has extensive experience in banking and financial services. He is a highly motivated and results-oriented leader with a passion for building high-performing teams and delivering innovative solutions.
+
 Polkadex is developed by a team of highly skilled specialists from all over the world. Our core development team consists of 15 engineers working on Polkadex core blockchain, Subtratee Enclave, High-Frequency Trading Orderbook, website and UI/UX frontend, and mobile application. For more details about our developers, you can also check pull requests on the Github branch [https://github.com/Polkadex-Substrate](https://github.com/Polkadex-Substrate).
 
 You can also find more details about other team members, advisors and investors on our website [https://www.polkadex.trade](https://www.polkadex.trade/).
