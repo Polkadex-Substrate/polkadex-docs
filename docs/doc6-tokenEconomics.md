@@ -20,13 +20,11 @@ Now let’s take a deep dive into the core elements of Polkadex tokenomics.
 
 ### **Total supply**
 
-The total supply of Polkadex native token, PDEX, is capped at 20 mln. However, PDEX supply can fluctuate at times.
+Updated 12 November 2026.
 
-*How does it work?*
+PDEX started with 20,000,000 at genesis. The supply is not capped today: on 11 November 2026 it was 24,430,161. Every era, which is 24 hours, the chain mints about 10% of supply a year. A share that rises with the proportion of PDEX staked goes to validators and nominators as staking rewards, about 63% with 25.6% staked, and the remainder is minted into the on-chain treasury. The treasury also receives every transaction fee.
 
-PDEX token is inflationary, but Polkadex uses an automatic system of burning tokens self-regulated by the network itself.
-
-The supply can move between 18 mln and 22 mln tokens at certain periods, but it will always come back to fixed 20 mln tokens in total in the long run. Polkadex mechanism will burn the transaction fees if the current total supply goes over 20 mln tokens. We are also working on other mechanics of burning tokens from the Polkadex IDO pallet and Orderbook that will be introduced later. Burning mechanisms regulate supply via the network without the need for users to intervene.
+The 2021 tokenomics said the supply would always return to 20 million through the orderbook burning transaction fees. That burn depends on trading and has not run since the orderbook went offline in December 2024. The supply policy is going to community discussion and an on-chain vote; follow the main Telegram group.
 
 ### **Initial Circulating Supply**
 
